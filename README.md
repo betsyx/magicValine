@@ -1,4 +1,7 @@
-# magicValine
-magicValine
+感谢原作者的创作，本Valine Admin 是在原有 [Valine 评论系统](https://deserts.io/diy-a-comment-system/)上进行魔改，适配部分本人的功能需求，主要实现评论邮件通知、评论管理、垃圾评论过滤等功能。支持完全自定义的邮件通知模板。基于Akismet API实现准确的垃圾评论过滤。此外，使用云函数等技术解决了免费版云引擎休眠问题，支持云引擎自动唤醒，漏发邮件自动补发。
 
-个人修改版Valine
+> NOTE: **该项目基于LeanCloud云引擎示例代码实现，您可以自由地复制和修改。包含了一些 trick 实现资源的最大化利用 ，但请勿滥用免费资源。**
+
+[评论在线演示及相关功能测试](https://noheart.cn)
+
+
